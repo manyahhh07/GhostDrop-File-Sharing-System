@@ -8,6 +8,9 @@ Upload a file. Share a link. Watch it disappear.
 
 ![GhostDrop Preview](https://img.shields.io/badge/version-1.0.0-b8b2c8?style=flat-square) ![React](https://img.shields.io/badge/frontend-react%2018-c4bfd6?style=flat-square) ![Express](https://img.shields.io/badge/backend-express.js-d8cfc3?style=flat-square)
 
+
+</div>
+
 ---
 
 ![GhostDrop Upload Page](./screenshot/upload-page.png)
