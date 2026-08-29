@@ -1,3 +1,5 @@
+<div align="center">
+
 # GhostDrop
 
 **Ephemeral file sharing with self-destructing links.**
