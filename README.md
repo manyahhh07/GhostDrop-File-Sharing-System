@@ -245,7 +245,7 @@ Works in all modern browsers:
 
 ## License
 
-MIT License — see [LICENSE](./LICENSE) for details.
+MIT License — @ Manya Singh
 
 ---
 
