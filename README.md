@@ -248,5 +248,3 @@ Works in all modern browsers:
 MIT License — @ Manya Singh
 
 ---
-
-*Built with React, Express, and an unhealthy obsession with clean UI.*
