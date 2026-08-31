@@ -248,3 +248,4 @@ Works in all modern browsers:
 MIT License — @ Manya Singh
 
 ---
+
