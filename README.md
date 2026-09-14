@@ -19,9 +19,7 @@ Upload a file. Share a link. Watch it disappear.
 ## What It Does
 
 GhostDrop is a full-stack file sharing platform built for temporary, self-expiring uploads.
-
 Users can drag and drop files into a clean upload interface, generate shareable public links, choose expiry durations, and track uploaded files through a dedicated dashboard. Once a file expires, the backend automatically deletes it from storage.
-
 Every upload receives:
 
 * a unique public share link
