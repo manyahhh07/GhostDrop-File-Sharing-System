@@ -75,7 +75,7 @@ cd GhostDrop-File-Sharing-System
 
 ---
 
-### 2 — Start Backend
+### 2 — Start Backe
 
 ```bash id="zpqzco"
 cd backend
