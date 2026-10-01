@@ -187,7 +187,7 @@ GhostDrop-File-Sharing-System/
 
 ---
 
-## Architecture
+## Architectur
 
 GhostDrop follows a lightweight React + Express architecture:
 
