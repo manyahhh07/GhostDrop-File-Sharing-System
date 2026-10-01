@@ -66,7 +66,7 @@ The system is designed to feel lightweight, minimal, and frictionless — no aut
 
 ## Getting Started
 
-### 1 — Clone Reposito
+### 1 — Clone Repository
 
 ```bash id="t0v76n"
 git clone <your-repository-url>
