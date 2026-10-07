@@ -48,7 +48,7 @@ The system is designed to feel lightweight, minimal, and frictionless — no aut
 
 ---
 
-## Scr
+## Screenshots
 
 ### Upload Page
 
