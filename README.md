@@ -1,6 +1,6 @@
 <div align="center">
 
-# GhostD
+# GhostDrop
 
 **Ephemeral file sharing with self-destructing links.**
 
