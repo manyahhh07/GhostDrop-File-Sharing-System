@@ -2,7 +2,7 @@
 
 # GhostDrop
 
-**Ephemeral file sharing with self-destructing .**
+**Ephemeral file sharing with self-destructing links.**
 
 Upload a file. Share a link. Watch it disappear.
 
